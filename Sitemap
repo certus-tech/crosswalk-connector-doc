@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>http://www.certus-tech.com/en-US/Crosswalk/0.1/html/UKRISSCrosswalkTool/index.html</loc>
+	<lastmod>2013-12-02</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.certus-tech.com/en-US/Crosswalk/0.1/html-single/UKRISSCrosswalkTool/index.html</loc>
+	<lastmod>2013-12-02</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.certus-tech.com/en-US/Crosswalk/0.1/pdf/UKRISSCrosswalkTool/Crosswalk-0.1-UKRISSCrosswalkTool-en-US.pdf</loc>
+	<lastmod>2013-12-02</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.8</priority>
+</url>
+</urlset>
