@@ -5,8 +5,9 @@ http://www.certus-tech.com/
 
 --------------------------------------------------------------------------------
 
-To view the documentation locally, pull this repository and open:
-crosswalk-connector-doc/documentation/index.html
+To view the documentation locally, pull this repository, checkout the
+gh-pages branch, and open:
+crosswalk-connector-doc/index.html
 
 To view the documentation online, visit:
 http://certus-tech.github.io/crosswalk-connector-doc/
